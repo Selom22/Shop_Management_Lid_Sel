@@ -1,1 +1,2 @@
-# Shop_Management_Lid_Sel
+# Shop-Management
+Shop Management in Python with Tkinter
